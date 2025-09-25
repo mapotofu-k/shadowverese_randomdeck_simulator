@@ -1,0 +1,390 @@
+{
+  "ニュートラル": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "エルフ": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ロイヤル": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ウィッチ": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ドラゴン": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ナイトメア": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ビショップ": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  },
+  "ネメシス": {
+    "bronze": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "silver": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "gold": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ],
+    "legend": [
+      {
+        "name": "",
+        "cost": 
+      },
+      {
+        "name": "",
+        "cost": 
+      }
+    ]
+  }
+}
